@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DN3.0_Exercises.iml" filepath="$PROJECT_DIR$/.idea/DN3.0_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_1_Inventory_Management_System/Exercise_1_Inventory_Management_System.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_1_Inventory_Management_System/Exercise_1_Inventory_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_2_E_commerce_Search_Functionality/Exercise_2_E_commerce_Search_Functionality.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_2_E_commerce_Search_Functionality/Exercise_2_E_commerce_Search_Functionality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_3_Sorting_Customer_Orders/Exercise_3_Sorting_Customer_Orders.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_3_Sorting_Customer_Orders/Exercise_3_Sorting_Customer_Orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_4_Employee_Management_System/Exercise_4_Employee_Management_System.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_4_Employee_Management_System/Exercise_4_Employee_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_5_Task_Management_System/Exercise_5_Task_Management_System.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_5_Task_Management_System/Exercise_5_Task_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_6_Library_Management_System/Exercise_6_Library_Management_System.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_6_Library_Management_System/Exercise_6_Library_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_7_Financial_Forecasting/Exercise_7_Financial_Forecasting.iml" filepath="$PROJECT_DIR$/Week_1_Exercises/Data Structures and Algorithms/Exercise_7_Financial_Forecasting/Exercise_7_Financial_Forecasting.iml" />
+    </modules>
+  </component>
+</project>
